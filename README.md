@@ -1,4 +1,4 @@
-# freshman-project
+# Programming Concepts Project
 Random name generator written in Java which I created in a team of 3.
 ### Program allows for three main options
   * Randomly generate a list of male, female, or unisex names with or without certain parameters
